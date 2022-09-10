@@ -41,7 +41,6 @@ e++;
 g++;
 }
 h++;
-}+eeh
 putchar('\n');
 return (0);
 }
