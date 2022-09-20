@@ -16,7 +16,7 @@ else
 len = len / 2 + 1;
 while (*(str + len) != '\0')
 {
-putchar(*(str + len));
+_putchar(*(str + len));
 len++;
 }
 _putchar('\n');
