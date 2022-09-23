@@ -2,7 +2,7 @@
 
 /**
  * _strcmp - Compare two strings
- * @s1: string
+ * @s1: string 
  * @s2: string 
  * Return: negative int if s1 < s2, 0 if matching, and positive int if s1 > s2
  */
@@ -17,4 +17,3 @@ return (s1[i] - s2[i]);
 }
 return (0);
 }
-:%s/\s\+$//e
