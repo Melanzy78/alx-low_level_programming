@@ -2,7 +2,7 @@
 
  /**
   * cap_string - capitalize all words of a string
-  * @str: string
+  * @c:pointer to char input array
   * Return: `str`
   */
 
