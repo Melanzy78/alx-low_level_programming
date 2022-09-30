@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
+
  /**
-  * main - multiplies two numbers
+  * main - prints the multiplication of two integers
+  * atoi - converts a string to an integer
   * @argc: number of arguments passed to the function
   * @argv: argument vector of pointers to strings
   * Return: 0 if no errors, else 1
