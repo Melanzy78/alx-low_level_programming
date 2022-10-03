@@ -3,7 +3,7 @@
 #include "main.h"
 
  /**
-  * main - prints the multiplication of two integers
+  * main - prints the multiplication of two integers,followed by a new line
   * atoi - converts a string to an integer
   * @argc: number of arguments passed to the function
   * @argv: argument vector of pointers to strings
